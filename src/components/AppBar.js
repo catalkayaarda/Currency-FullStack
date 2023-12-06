@@ -46,7 +46,7 @@ export default function ButtonAppBar() {
           >
             Kurlar
           </Typography>
-          <Button color="inherit">Mert Efe</Button>
+          <Button color="inherit">Arda Çatalkaya</Button>
         </Toolbar>
       </AppBar>
     </div>
